@@ -2,13 +2,13 @@
   "groups": [
     {
       "name": "sfg.brewery",
-      "type": "com.gabkings.msscbreweryclient.web.client.CustomerClient",
-      "sourceType": "com.gabkings.msscbreweryclient.web.client.CustomerClient"
+      "type": "com.gabkings.msscbreweryclient.web.client.BreweryClient",
+      "sourceType": "com.gabkings.msscbreweryclient.web.client.BreweryClient"
     },
     {
       "name": "sfg.brewery",
-      "type": "com.gabkings.msscbreweryclient.web.client.BreweryClient",
-      "sourceType": "com.gabkings.msscbreweryclient.web.client.BreweryClient"
+      "type": "com.gabkings.msscbreweryclient.web.client.CustomerClient",
+      "sourceType": "com.gabkings.msscbreweryclient.web.client.CustomerClient"
     }
   ],
   "properties": [],
